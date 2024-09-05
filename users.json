@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "surname": "Макаренко",
+    "name": "Ігор",
+    "gender": "MALE",
+    "authorizationTime": "2024-09-05T14:55:00"
+  },
+  {
+    "id": 2,
+    "surname": "Степаненко",
+    "name": "Ольга",
+    "gender": "FEMALE",
+    "authorizationTime": "2024-09-05T14:55:00"
+  },
+  {
+    "id": 3,
+    "surname": "Іванов",
+    "name": "Іван",
+    "gender": "NOT_SPECIFIED",
+    "authorizationTime": "2024-09-05T14:55:00"
+  }
+]
